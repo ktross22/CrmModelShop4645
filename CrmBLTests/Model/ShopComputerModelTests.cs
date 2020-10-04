@@ -18,6 +18,7 @@ namespace CrmBL.Model.Tests
             var model = new ShopComputerModel();
             model.Start();
             Thread.Sleep(10000);
+            
         }
     }
 }
